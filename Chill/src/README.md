@@ -2,4 +2,4 @@
 
 Run this:
 
-pip install mutagen pygame
+$ pip install mutagen pygame
